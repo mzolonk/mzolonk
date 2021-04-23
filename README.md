@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nkosie Mzolo (@mzolonk)
 - 👀 I’m interested in anything SQL and C#
 - 🌱 I’m currently learning C# Web API's
-- 💞️ I’m looking to collaborate on Securing Web API
 - 📫 How to reach me mzolonk@gmail.com
 
 <!---
